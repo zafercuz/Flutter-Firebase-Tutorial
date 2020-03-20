@@ -1,5 +1,7 @@
 # flutter_with_firebase
 
+Flutter mobile app with firebase created by following TheNetNinja firebase tutorial series
+
 A new Flutter project.
 
 ## Getting Started
